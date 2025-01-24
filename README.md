@@ -534,5 +534,4 @@ npm start
     - Integration with components
 
 Follow along with the examples in this repository to master these concepts!
-#   l e a r n - r e a c t  
- 
+#
